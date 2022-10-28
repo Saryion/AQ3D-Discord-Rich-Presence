@@ -1,0 +1,182 @@
+{
+  "Battleon": [
+    "Battleon Town Square",
+    "Magic Shoppe",
+    "Class Trainers",
+    "Cysero's Shop",
+    "Aria's Pet Shop",
+    "House of Oddities",
+    "Battleon Bank",
+    "Barbershop",
+    "Battleon Social District",
+    "Battleon Trade District",
+    "Battleon Scholar District",
+    "Battleon Cemetery"
+  ],
+  "Guardian Tower": [
+    "Guardian Tower",
+    "Guardian Combat Vault",
+    "Guardian Battle Arena",
+    "Guardian Research Hall",
+    "Hall of Secrets",
+    "Guardian PvP"
+  ],
+  "Yulgar's Inn": [
+    "Yulgar's Inn",
+    "Yulgar's Sinkhole",
+    "Mouse Hole Lobby",
+    "Wall Parkour"
+  ],
+  "Greenguard": [
+    "Greenguard Forest",
+    "Dricken Cave",
+    "Barrow Point",
+    "Barrow Drop",
+    "Barrow Drop Challenge",
+    "Greenguard Ravine",
+    "Greenguard Zard Challenge",
+    "Greenguard Brutal Challenge",
+    "Greenguard Clawg Challenge",
+    "Deadwood Grove",
+    "Fort Sneed",
+    "Box Springs",
+    "Shadowguard"
+  ],
+  "Westmere": [
+    "Westmere",
+    "Westmere Dragon Fight",
+    "Westmere Barn",
+    "Westmere Barn Fight"
+  ],
+  "DreadFool's Labyrinth": [
+    "DreadFool's Labyrinth"
+  ],
+  "Doomwood": [
+    "Doomwood Forest",
+    "Bone Cliffs",
+    "Shadowskull Bridge",
+    "Shadowskull Tower",
+    "Island of the Dead",
+    "Tower of Necromancy",
+    "Basement - The Bone Pit",
+    "Battle Pit",
+    "Tower of Necro  - Floor 2",
+    "Tower of Necro  - Floor 3",
+    "Tower of Necro  - Floor 4",
+    "Tower of Necro  - Floor 5",
+    "Tower of Necro  - Floor 6",
+    "Tower of Necro  - Floor 7",
+    "Tower of Necro  - Floor 8",
+    "Tower of Necro  - Floor 9",
+    "Tower of Necro  - Floor 10",
+    "Tower of Necro  - Floor 11",
+    "Tower of Necro  - Floor 12",
+    "Tower of Necro  - Floor 13"
+  ],
+  "Ashfall": [
+    "DragonSlayer Camp",
+    "DragonSlayer Tent",
+    "Volcano Challenge 1",
+    "Volcano Challenge 2",
+    "Volcano Challenge 3",
+    "Lower Firefield",
+    "The Slabs",
+    "Hall of Awesome",
+    "Magma Mines",
+    "Magma Mine Pass",
+    "Upper Firefield",
+    "Tower Pass",
+    "Mount Ashfall Camp",
+    "Brimston Ruins",
+    "Salire Draco",
+    "Void Waiting Hall",
+    "Slabs Cavern",
+    "Rockedge Mine"
+  ],
+  "Darkovia": [
+    "Darkhurst",
+    "Boog's Tavern",
+    "Inn Room",
+    "Boog's Basement",
+    "Darkovia Forest",
+    "Cave of the Cure",
+    "Cure Room",
+    "Lightovia",
+    "Darkovia Castle Bridge",
+    "Darkovia Castle",
+    "Darkovia Castle T Hallway",
+    "Darkovia Castle Ballroom",
+    "Darkovia Castle South Tower",
+    "Darkovia Castle Dining Room",
+    "Darkovia Castle Library",
+    "Darkovia Castle Throne",
+    "Darkovia Waterway",
+    "Darkovia Catacombs",
+    "Werewolf Alcove",
+    "Werewolf Coliseum",
+    "Werewolf Feast Hall",
+    "Werewolf Throne Room",
+    "Werewolf Baths",
+    "Werewolf Garden",
+    "WolfWing's Lair Lobby"
+  ],
+  "Underworld": [
+    "Underworld Gate",
+    "Dage's Arena of Souls",
+    "Dage's Challenge (Normal)",
+    "Dage's Challenge (Hard)",
+    "Soul Chamber",
+    "Underworld Parkour"
+  ],
+  "Lolosia": [
+    "Lolosia",
+    "Mega Don Returns"
+  ],
+  "Yokai": [
+    "Yokai Island",
+    "Yokai Forest",
+    "Kagu-Tsuchi's Lair",
+    "Yokai Cliffs",
+    "Shadow of the Wing Village",
+    "Ninja Weapon Shop",
+    "Ninja Mask and Armor Shop",
+    "Ninja Pet Shop",
+    "Wreck of the Vengeance Lobby",
+    "Ninja Dojo"
+  ],
+  "Pointe Less Isle": [
+    "Pointe Less Isle"
+  ],
+  "Frostvale": [
+    "Frostvale",
+    "Frostlorn Castle",
+    "Frostlorn's Lair"
+  ],
+  "Arcangrove": [
+    "Arcangrove Forest",
+    "Herbalist's Hut",
+    "Unicorn Glen",
+    "Ornithon Camp",
+    "Arcangrove Tower",
+    "Arcangrove Tower Library",
+    "Arcangrove Tower Council",
+    "Center of LORE"
+  ],
+  "Sandsea": [
+    "Bastion",
+    "Nigels' Office",
+    "Sandsea Desert",
+    "Valley of the Undying King",
+    "Rebel Camp"
+  ],
+  "Mystcroft": [
+    "Mystcroft Town Square",
+    "Graveyard of Unrest",
+    "Doctor Trollenstein's Lobby",
+    "Mystcroft Manor",
+    "Manor Lobby"
+  ],
+  "Hero Hangout": [
+    "Hero Hangout"
+  ]
+}

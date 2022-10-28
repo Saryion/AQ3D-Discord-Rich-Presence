@@ -1,0 +1,67 @@
+[
+  {
+    "ID": "1",
+    "ClassName": "Warrior",
+    "ClassImage": "warrior"
+  },
+  {
+    "ID": "2",
+    "ClassName": "Mage",
+    "ClassImage": "mage"
+  },
+  {
+    "ID": "3",
+    "ClassName": "Rogue",
+    "ClassImage": "rouge"
+  },
+  {
+    "ID": "21",
+    "ClassName": "Healer",
+    "ClassImage": "mage"
+  },
+  {
+    "ID": "4",
+    "ClassName": "Guardian",
+    "ClassImage": "guardian"
+  },
+  {
+    "ID": "19",
+    "ClassName": "Ranger",
+    "ClassImage": "ranger"
+  },
+  {
+    "ID": "5",
+    "ClassName": "Dragonslayer",
+    "ClassImage": "dragonslayer"
+  },
+  {
+    "ID": "10",
+    "ClassName": "Pirate",
+    "ClassImage": "pirate"
+  },
+  {
+    "ID": "8",
+    "ClassName": "Alpha Pirate",
+    "ClassImage": "alphapirate"
+  },
+  {
+    "ID": "6",
+    "ClassName": "Paladin",
+    "ClassImage": "paladin"
+  },
+  {
+    "ID": "9",
+    "ClassName": "Necromancer",
+    "ClassImage": "necromancer"
+  },
+  {
+    "ID": "14",
+    "ClassName": "Moglomancer",
+    "ClassImage": "moglomancer"
+  },
+  {
+    "ID": "15",
+    "ClassName": "Berserker",
+    "ClassImage": "berserker"
+  }
+]
